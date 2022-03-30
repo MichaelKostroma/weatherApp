@@ -1,0 +1,13 @@
+.mainInfo {
+    display: flex;
+    flex-direction: column;
+    row-gap: 40px;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.weatherImg {
+    height: 400px;
+    width: 400px;
+    margin: 0 auto;
+}

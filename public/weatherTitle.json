@@ -1,0 +1,14 @@
+{
+  "status":"success",
+  "data":
+    {
+      "cold": "It's super cold today. Be sure you dress well!",
+      "windy": "It's windy outside, but but we are sure you will enjoy your day!",
+      "normal": "It's time for outdoor walking!",
+      "hot": "It's so hot outside!",
+      "veryHot": "Welcome to hell!",
+      "reCheck": "Please re-check results in 5 mins."
+    }
+}
+
+
